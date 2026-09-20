@@ -1,0 +1,12 @@
+@"
+__pycache__/
+*.py[cod]
+*.zip
+*.pkl
+*_venv.pkl
+frames/
+*.png
+grid_state.png
+.ipynb_checkpoints/
+.vscode/
+"@ | Out-File -Encoding utf8 .gitignore
